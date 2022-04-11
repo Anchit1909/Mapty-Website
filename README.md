@@ -1,4 +1,4 @@
-# Bankist Website 🪙💰
+# Mapty Website 🪙💰
 
 ## Project Description
 
