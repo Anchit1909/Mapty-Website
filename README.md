@@ -1,4 +1,4 @@
-# Mapty Website 🪙💰
+# Mapty Website 🗺️🏃
 
 ## Project Description
 
